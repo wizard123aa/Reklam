@@ -70,9 +70,9 @@ client.on("message", shvan => {
   if (shvan.channel.type === "dm") {
     if (shvan.content.startsWith("https://discord.gg/")) {
       shvan.author.send(`> **تـۆش ریکلام بۆ ئـەم سێرڤـەرە بکە **  
-https://discord.gg/9DBUNV7`); /// لینکە سیرڤەرە خۆت
+https://discord.gg/QWfXSD94ge`); /// لینکە سیرڤەرە خۆت
 
-      client.channels.get("").send(////ئایدی ژوری تێکست
+      client.channels.get("851525573507153970").send(//782768475663368192//ئایدی ژوری تێکست
  
         `> Nerdra la layan <@${shvan.author.id}> 
 ${shvan.content}`
@@ -83,5 +83,5 @@ ${shvan.content}`
 
 // ======== { • TOKENN • }======== //
 
-client.login("لێرە تۆکین دانە");
+client.login("ODU3NTkzNzE3NTcyNzYzNjY4.YNR2Yw.GT9N5FM1TMnZ855f4FG_MMlQSD4");
 ////////////////
